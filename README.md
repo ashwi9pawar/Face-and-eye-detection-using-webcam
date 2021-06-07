@@ -1,0 +1,2 @@
+# Face-and-eye-detection-using-webcam
+Live video feed from web cam is converted to image frames.  The frames are converted to grayscale images . These images are analysed to detect face and eye. For marking face and eye rectangles are created which continuously change in size according to the requirement. Haarcascades are used in the algorithm for detecting face and eye. This entire operation is executed in a recurrent while loop.
